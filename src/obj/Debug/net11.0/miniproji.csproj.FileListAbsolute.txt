@@ -1,0 +1,17 @@
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.exe
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.deps.json
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.runtimeconfig.json
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.runtimeconfig.dev.json
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.dll
+C:\kurssit\ohtuvarasto\miniproji\src\bin\Debug\net11.0\miniproji.pdb
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.AssemblyInfoInputs.cache
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.AssemblyInfo.cs
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.csproj.CoreCompileInputs.cache
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.sourcelink.json
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.dll
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\refint\miniproji.dll
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.pdb
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.genruntimeconfig.cache
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\ref\miniproji.dll
+C:\kurssit\ohtuvarasto\miniproji\src\obj\Debug\net11.0\miniproji.csproj.Up2Date
