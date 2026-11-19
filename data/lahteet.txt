@@ -2,7 +2,5 @@
 ;id|tyyppi|nimi	  |tekijä          |vuosiluku
 1|kirja|Clean Code|Robert C. Martin|2008
 2|artikkeli|No Silver Bullet|Fred Brooks|1986
-3|kirja|The Pragmatic Programmer|Andrew Hunt, David Thomas|1999
 4|kirja|Refactoring|Martin Fowler|1999
 5|kirja|The Mythical Man-Month|Fred Brooks|1975
-6|artikkeli|Go To Statement Considered Harmful|Edsger W. Dijkstra|1968
