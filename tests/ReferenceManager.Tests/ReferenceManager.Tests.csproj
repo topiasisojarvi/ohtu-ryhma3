@@ -19,9 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="../../src/Poista.cs" Link="Poista.cs" />
-    <Compile Include="../../src/Lukija.cs" Link="Lukija.cs" />
-    <Compile Include="../../src/Lisaa.cs" Link="Lisaa.cs" />
+    <Compile Include="../../src/poista.cs" Link="poista.cs" />
+    <Compile Include="../../src/lukija.cs" Link="lukija.cs" />
+    <Compile Include="../../src/lisaa.cs" Link="lisaa.cs" />
   </ItemGroup>
 
 </Project>

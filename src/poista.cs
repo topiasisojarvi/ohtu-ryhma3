@@ -4,7 +4,7 @@ using System.IO;
 using System.Collections.Generic;
 
 public class Poista{
-static string polku = "../data/lahteet.txt";
+static string polku = "../../../../data/lahteet.txt";
 public static void Suorita ()
 {
     Console.WriteLine("Valitse poistettava lähde: ");
