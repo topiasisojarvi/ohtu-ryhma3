@@ -2,8 +2,8 @@ using System;
 using System.IO;
 
 public class Lukija{
-static string polku = "../../../../data/lahteet.txt";
-public static void Suorita ()
+const string OletusPolku = "../../../../data/lahteet.txt";
+public static void Suorita (string polku = OletusPolku)
 {
     using StreamReader lukija = new StreamReader(polku);
     for (int i = 0; i < 2; i++){

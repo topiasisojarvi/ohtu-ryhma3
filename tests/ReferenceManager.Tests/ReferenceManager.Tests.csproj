@@ -20,6 +20,8 @@
 
   <ItemGroup>
     <Compile Include="../../src/Poista.cs" Link="Poista.cs" />
+    <Compile Include="../../src/Lukija.cs" Link="Lukija.cs" />
+    <Compile Include="../../src/Lisaa.cs" Link="Lisaa.cs" />
   </ItemGroup>
 
 </Project>

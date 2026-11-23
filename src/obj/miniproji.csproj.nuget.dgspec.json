@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\kurssit\\ohtuvarasto\\miniproji\\src\\miniproji.csproj": {}
+    "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\src\\miniproji.csproj": {}
   },
   "projects": {
-    "C:\\kurssit\\ohtuvarasto\\miniproji\\src\\miniproji.csproj": {
+    "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\src\\miniproji.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\kurssit\\ohtuvarasto\\miniproji\\src\\miniproji.csproj",
+        "projectUniqueName": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\src\\miniproji.csproj",
         "projectName": "miniproji",
-        "projectPath": "C:\\kurssit\\ohtuvarasto\\miniproji\\src\\miniproji.csproj",
-        "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "C:\\kurssit\\ohtuvarasto\\miniproji\\src\\obj\\",
+        "projectPath": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\src\\miniproji.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net11.0"

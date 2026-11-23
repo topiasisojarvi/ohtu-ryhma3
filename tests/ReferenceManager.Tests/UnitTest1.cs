@@ -2,6 +2,7 @@
 using Xunit;
 using System.IO;
 
+[Collection("Konsolitestit")]
 public class UnitTest1
 {
     [Fact]
