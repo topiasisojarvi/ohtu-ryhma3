@@ -12,7 +12,7 @@ public class UnitTest1
         string testikansio = Path.Combine(Path.GetTempPath(),Guid.NewGuid().ToString());
 
         string dataKansio = Path.Combine(testikansio, "data");
-        string srcKansio = Path.Combine(testikansio, "src");
+        string srcKansio = Path.Combine(testikansio, "src", "bin", "Debug", "net11.0");
 
         Directory.CreateDirectory(dataKansio);
         Directory.CreateDirectory(srcKansio);
