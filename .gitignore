@@ -1,2 +1,4 @@
 bin/
 obj/
+tests/ReferenceManager.Tests/bin/
+tests/ReferenceManager.Tests/obj/
