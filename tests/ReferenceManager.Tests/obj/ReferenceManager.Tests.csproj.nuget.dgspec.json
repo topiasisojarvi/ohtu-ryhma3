@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj": {}
+    "C:\\kurssit\\ohtuvarasto\\miniproji\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj": {}
   },
   "projects": {
-    "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj": {
+    "C:\\kurssit\\ohtuvarasto\\miniproji\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj",
+        "projectUniqueName": "C:\\kurssit\\ohtuvarasto\\miniproji\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj",
         "projectName": "ReferenceManager.Tests",
-        "projectPath": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj",
-        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\kurssit\\Ohjelmistotuotanto\\ohtu-ryhma3\\tests\\ReferenceManager.Tests\\obj\\",
+        "projectPath": "C:\\kurssit\\ohtuvarasto\\miniproji\\tests\\ReferenceManager.Tests\\ReferenceManager.Tests.csproj",
+        "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
+        "outputPath": "C:\\kurssit\\ohtuvarasto\\miniproji\\tests\\ReferenceManager.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net11.0"
